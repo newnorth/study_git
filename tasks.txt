@@ -1,0 +1,4 @@
+- add button /add, /random, /show and /exit;
+- add SQLLite table with 4 colums - user/id/date/task;
+
+
